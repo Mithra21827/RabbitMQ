@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqE6JU2cgJtIMSVZ4jgoBCnKkjAzoxMUlI6KQxu19wTBl8+CL3KLYU52hS1J0a4mwLvjEi/vBrymJG77SN4igw==",
+  "success": true,
+  "projectFilePath": "E:\\Traning-Texiio_Sql_Asp_Angular\\My-Work\\MessageMq\\C#\\Routing\\PaymentConsumer\\PaymentConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mithra\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Mithra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Mithra\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

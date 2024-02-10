@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6oUkl/jAcCyKV/X+2y7sLPRgLgD0F6cumDW4OSv6vSbvcFq44Av7QATGSgrzAIKVEZ1K7bmVtdA7td6i0OETw==",
+  "success": true,
+  "projectFilePath": "E:\\Traning-Texiio_Sql_Asp_Angular\\My-Work\\MessageMq\\C#\\FirstProgam\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mithra\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Mithra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Mithra\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
